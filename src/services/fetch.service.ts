@@ -1,7 +1,7 @@
-// transport utils
 // import some fetch
 // import error service
 // import cache service
+
 import BASEURL from 'root/constants';
 
 interface IFETCHOptions {
